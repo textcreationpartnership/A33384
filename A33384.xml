@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canterburies potion wherein is shewed the great art of his doctor in finding out the nature of his disease : together with the medicines hee applied, and the strange effects they wrought in him, to the great ease of his surcharged body / collected from the doctors owne hand.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33384</idno>
+            <idno type="STC">Wing C460</idno>
+            <idno type="STC">ESTC R21816</idno>
+            <idno type="EEBO-CITATION">12121894</idno>
+            <idno type="OCLC">ocm 12121894</idno>
+            <idno type="VID">54461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33384)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54461)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 591:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Canterburies potion wherein is shewed the great art of his doctor in finding out the nature of his disease : together with the medicines hee applied, and the strange effects they wrought in him, to the great ease of his surcharged body / collected from the doctors owne hand.</title>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Woodcut on t.p.</note>
+                  <note>Reproduction of original in St. Paul's Cathedral, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54461:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <p>Canterburies Potion: WHEREIN Is ſhewed the great Art of his Doctor in finding out the nature of his Diſeaſe: TOGETHER With the Medicines hee applied, and the ſtrange effects they wrought in him, To the great eaſe of his ſurcharged Body, Collected from the Doctors owne hand.</p>
+            <figure>
+               <figDesc>portrait of William Laud, archbishop of Canterbury</figDesc>
+            </figure>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:54461:2"/>
+            <!-- PDF PAGE 115 -->
+            <head>CANTERB<g ref="char:V">Ʋ</g>RIES POTION.</head>
+            <sp>
+               <speaker>Canterbury.</speaker>
+               <p>GOod Mr. Doctor you are welcome.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>I underſtand by your Gentleman, your Grace was pleaſed to ſend for me.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Yes, good Mr. Doctor, and not before I had occaſion: for I finde my ſelfe diſeaſed in all parts; in<g ref="char:EOLhyphen"/>ſomuch, that without ſome ſpeedy remedy, I cannot long continue. I have a great deſire to take Phyſicke, me thinkes, Mr. Doctor, in caſe the time of the yeare be ſeaſonable.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Yes (if it pleaſe your grace) the time of the yeare may be ſeaſonable; but we muſt have a due care to the conſtitution of your Lordſhips body, the na<g ref="char:EOLhyphen"/>ture of the Malady, and the quality of the Medicine. Our cordiall potions, Electuaries, Pills, Loſinges, Oyles, Unguents, Emplaſters, Seare cloathes, Cly<g ref="char:EOLhyphen"/>ſters, Vomits, Suppoſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ores, and ſuch like, muſt bee applied according to the ſtate of the Patients body; and withall, we muſt bee circumſpect what Planet is predominant.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Now by St. <hi>Auguſtine,</hi> Mr. Doctor, I approve your learned skill, in having reſpect to the conſtella<g ref="char:EOLhyphen"/>tions: for I am opinion (though the brethren forſooth call it ſuperſtition) that when the ſigne is in <hi>Taurus,</hi> if I bee let bloud in the head, I ſhall bleed to the death.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:54461:3"/>
+               <!-- PDF PAGE 116 -->
+               <speaker>Doct.</speaker>
+               <p>That's without queſtion, my Lord, unleſſe your Graces Chyrurgians have a more ſaving skill then the Lord Deputies had. But I beſeech your Grace that I may ſee your water: for by it I ſhall ea<g ref="char:EOLhyphen"/>ſily ſee the ſtate of your body, and my Phyſicke ac<g ref="char:EOLhyphen"/>cordingly.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Reach Mr. Doctor that Urinall; looke Sir, this water I made after my firſt ſleepe the laſt night; what doe you thinke of it?</p>
+               <p>Faith, my Lord, your water is very groſſe, heavie, blacke, denſe, ſolid, and a moſt impure, putrified and rotten urine. In my opinion (my Lord) your Grace hath kept a very bad diet: There are ſeverall raw hu<g ref="char:EOLhyphen"/>mours, and unwholeſome things, that lye heavie and indigeſted upon your ſtomacke; and if they be not re<g ref="char:EOLhyphen"/>moved, and that ſpeedily, they will daily off<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd untill they ſti<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fle and ſuffocate your Grace.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Good Mr. Doctor, I beſeech you, make ex<g ref="char:EOLhyphen"/>perience of your approved Art. For although I owe a death, I have no minde to pay it before it be due. If in your power it lieth to prolong my life, let not any coſt be ſpared for the effecting of it.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>My Lord, it is within the power of my Art to prolong your life, if it happen not to be cut off un<g ref="char:EOLhyphen"/>timely: Wherefore I doubt not but to remove theſe crudities from your ſtomacke; to which purpoſe I have here a coſtly vomit, which will undoubtedly re<g ref="char:EOLhyphen"/>move all the groſſe matter that is uncocted.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>When ſhall I take it, Mr. Doctor?</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Out of hand my Lord: for your Grace is fa<g ref="char:EOLhyphen"/>ſting.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:54461:4"/>
+               <!-- PDF PAGE 117 -->
+               <speaker>Cant.</speaker>
+               <p>Firſt, ſwallow theſe three Pills, and then drinke this potion, I doubt not but it will worke im<g ref="char:EOLhyphen"/>mediatly. Well done, my Lord, your grace ſhall feele the operation of it inſtantly.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Oh Mr. Doctor, your Phyſicke workes moſt violently, I muſt vomit already.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Into this Baſon, my Lord, up with it: Well done my Lord; ſee what's here! A great peece of Parchment, and a great Seale to it, I cannot read it. What's this that comes next? A great Roll of To<g ref="char:EOLhyphen"/>bacco, pure Spaniſh. I proteſt, now I know what the writing was! it was the Patent for it. Had your Grace ever a hand in the Tobacco Patent?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Yes, Maſter Doctor, I had, but I could never digeſt it, it hath ſtucke in my ſtomack almoſt this foure yeares, I am glad I am ſo rid of it, but ſtay, hold the baſon.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>What's here, a booke? let me ſee, thoſe that have been at Church, may have liberty to exerciſe lawfull Recreations upon the Sunday, what's the mea<g ref="char:EOLhyphen"/>ning of this my Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Tis a booke I made to tolerate paſtimes on that day, I am glad tis off my ſtomacke, for me thinkes I am much eaſed.</p>
+            </sp>
+            <sp>
+               <speaker>Doct</speaker>
+               <p>I proteſt another booke, the Title is <hi>Sunday is no Sabbath,</hi> did your Grace cauſe this booke to bee made? for tis ſomething like the other in matter.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>I licenc'd it, but Doctor <hi>Pocklington</hi> made it.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>What? he that lookes ſo like a Negromancer, he that for his paines was preferr'd beſides his bene<g ref="char:EOLhyphen"/>fices?
+<pb facs="tcp:54461:5"/>
+                  <!-- PDF PAGE 118 -->up with it my Lord, what is that? a paper, O tis a Starchamber order againſt Mr. <hi>Prinne.</hi> Mr. <hi>Burton,</hi> and Doctor <hi>Baſtweek,</hi> what's the meaning of this, my Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Why, I had a great hand in their buſineſſe, which is ſufficiently apparant to all England, I need not mention it. O here's ſome other indigeſted ſub<g ref="char:EOLhyphen"/>ſtance which makes my very backe ake, if it were up once I ſhould be at great eaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Here tis my Lord, I doe not blame you to be troubled, what a bundle of Papers are here, what are theſe my Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Severall papers, as preſentations, inſtitutions, inductions, licences, ſuſpenſions, degradations, and ſuch like.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>I underſtand you my Lord, theſe were the in<g ref="char:EOLhyphen"/>ſtruments wherewith you created your tongue, had Doctors that preacht twice a yeare at leaſt, and in their places hired journey men Curates, who would read a Sermon in the forenoone, and be drunke with their neighbours after dinner, for company, and with ſome of them, you ſilenced the long winded Miniſters, as you called them, who would preach twice on a Sun<g ref="char:EOLhyphen"/>day, &amp; may chance at Thurſday and Friday Lectures, and hoyſed into New England. But what in the name of wonder is this, that ſtickes ſo ſtrong in your ſto<g ref="char:EOLhyphen"/>mack, you labour extreamely, heavens ſend it choake not your Grace. O tis up, as I live the new Canons themſelves, with that ill favoured monſter, and I am heartily glad this is come up, how doth your Grace finde your ſelfe? me thinkes you looke pretty well.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:54461:6"/>
+               <!-- PDF PAGE 119 -->
+               <speaker>Cant.</speaker>
+               <p>Truely Mr. Doctor, thanks to your great Art I am ſomething better; but ſtay, here is a greater thing then all the reſt, what is it Mr. Doctor? it is up.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>As I am here a Drum: I believe this is the Drum that was beaten by the Apprentices in Saint <hi>Georges</hi> fields.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>The very ſame, but I pray Mr. Doctor what was this vomit made of.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>There were three ſcruples of Pillory powder, halfe a ſcruple of his braines that lookes over London Bridge, three handfulls of the hearbes that were ga<g ref="char:EOLhyphen"/>thered by the ſaid Apprentices, wrapped up in a High Commiſſion Roll, and boiled in a Pottle of Holy<g ref="char:EOLhyphen"/>water to the third part, and then ſtrained through a paire of Lawne ſleeves.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Well, if this be your phyſicke Mr. Doctor, I will no more of it; I feare it will make me vomit my heart up, O ſomething comes againſt my ſtomacke, O it is a Miter, I had rather have vomitted out my heart.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Nay I muſt be gone if the Miter come, the Divell is not farre off. Farewell.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
